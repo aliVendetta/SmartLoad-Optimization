@@ -14,6 +14,6 @@ of shipment orders for a truck.
 ## Run Locally
 
 ```bash
-git clone <your-repo>
+git clone git@github.com:aliVendetta/SmartLoad-Optimization.git
 cd smartload-optimizer
 docker compose up --build
