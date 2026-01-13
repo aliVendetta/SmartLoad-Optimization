@@ -1,5 +1,5 @@
 from typing import List
-from app.models import Order
+from models import Order
 
 
 def filter_compatible_orders(orders: List[Order]) -> List[Order]:
